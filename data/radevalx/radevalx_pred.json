@@ -1,0 +1,1602 @@
+[
+  {
+    "id": "13",
+    "messages": [
+      {
+        "role": "user",
+        "content": "<video>\nCould you write the radiology report for this chest CT scan?"
+      },
+      {
+        "role": "assistant",
+        "content": "Findings: the heart size is normal . the mediastinal contour is within normal limits . the lungs are free of any focal infiltrates . there are no nodules or masses . no visible pneumothorax . there is calcified granuloma in the left lower lobe . no visible pleural fluid . the xxxx are grossly normal . there is no visible free"
+      }
+    ],
+    "videos": [
+      "13"
+    ]
+  },
+  {
+    "id": "1965",
+    "messages": [
+      {
+        "role": "user",
+        "content": "<video>\nCould you write the radiology report for this chest CT scan?"
+      },
+      {
+        "role": "assistant",
+        "content": "Findings: the lungs are clear bilaterally . no evidence of focal or pleural effusion . cardio mediastinal silhouette is unremarkable . visualized osseous structures of the thorax are without acute abnormality . no evidence of rib fractures ."
+      }
+    ],
+    "videos": [
+      "1965"
+    ]
+  },
+  {
+    "id": "3570",
+    "messages": [
+      {
+        "role": "user",
+        "content": "<video>\nCould you write the radiology report for this chest CT scan?"
+      },
+      {
+        "role": "assistant",
+        "content": "Findings: the heart size and mediastinal silhouette are within normal limits for contour . the lungs are clear . no pneumothorax or pleural effusions . the xxxx are intact ."
+      }
+    ],
+    "videos": [
+      "3570"
+    ]
+  },
+  {
+    "id": "1085",
+    "messages": [
+      {
+        "role": "user",
+        "content": "<video>\nCould you write the radiology report for this chest CT scan?"
+      },
+      {
+        "role": "assistant",
+        "content": "Findings: the heart is normal in size and contour . the lungs are without evidence of infiltrate . there is no pneumothorax or effusion ."
+      }
+    ],
+    "videos": [
+      "1085"
+    ]
+  },
+  {
+    "id": "3651",
+    "messages": [
+      {
+        "role": "user",
+        "content": "<video>\nCould you write the radiology report for this chest CT scan?"
+      },
+      {
+        "role": "assistant",
+        "content": "Findings: the trachea is midline . the cardiomediastinal silhouette is normal . the lungs are without evidence of acute infiltrate or effusion . there is no evidence of tuberculous disease . there is no pneumothorax . the visualized bony structures reveal no acute abnormalities ."
+      }
+    ],
+    "videos": [
+      "3651"
+    ]
+  },
+  {
+    "id": "1685",
+    "messages": [
+      {
+        "role": "user",
+        "content": "<video>\nCould you write the radiology report for this chest CT scan?"
+      },
+      {
+        "role": "assistant",
+        "content": "Findings: normal heart size and mediastinal contours . the lungs are clear . there is no pneumothorax or pleural effusion . the xxxx are unremarkable ."
+      }
+    ],
+    "videos": [
+      "1685"
+    ]
+  },
+  {
+    "id": "1117",
+    "messages": [
+      {
+        "role": "user",
+        "content": "<video>\nCould you write the radiology report for this chest CT scan?"
+      },
+      {
+        "role": "assistant",
+        "content": "Findings: the heart is normal in size and contour . the lungs are without evidence of infiltrate . there is no pneumothorax or effusion ."
+      }
+    ],
+    "videos": [
+      "1117"
+    ]
+  },
+  {
+    "id": "2314",
+    "messages": [
+      {
+        "role": "user",
+        "content": "<video>\nCould you write the radiology report for this chest CT scan?"
+      },
+      {
+        "role": "assistant",
+        "content": "Findings: heart size within normal limits . no focal airspace disease . no pneumothorax or effusions ."
+      }
+    ],
+    "videos": [
+      "2314"
+    ]
+  },
+  {
+    "id": "2082",
+    "messages": [
+      {
+        "role": "user",
+        "content": "<video>\nCould you write the radiology report for this chest CT scan?"
+      },
+      {
+        "role": "assistant",
+        "content": "Findings: there is a right upper lobe opacity . cardiomediastinal silhouette is normal . pulmonary vasculature and xxxx are normal . no pneumothorax or large pleural effusion . osseous structures and soft tissues are normal ."
+      }
+    ],
+    "videos": [
+      "2082"
+    ]
+  },
+  {
+    "id": "699",
+    "messages": [
+      {
+        "role": "user",
+        "content": "<video>\nCould you write the radiology report for this chest CT scan?"
+      },
+      {
+        "role": "assistant",
+        "content": "Findings: the heart and cardiomediastinal silhouette are normal in size and contour . there is no focal air space pleural or pneumothorax . the osseous structures are intact ."
+      }
+    ],
+    "videos": [
+      "699"
+    ]
+  },
+  {
+    "id": "1855",
+    "messages": [
+      {
+        "role": "user",
+        "content": "<video>\nCould you write the radiology report for this chest CT scan?"
+      },
+      {
+        "role": "assistant",
+        "content": "Findings: normal heart size and mediastinal contours . the lungs are clear . there is no pneumothorax or pleural effusion . the xxxx are unremarkable ."
+      }
+    ],
+    "videos": [
+      "1855"
+    ]
+  },
+  {
+    "id": "491",
+    "messages": [
+      {
+        "role": "user",
+        "content": "<video>\nCould you write the radiology report for this chest CT scan?"
+      },
+      {
+        "role": "assistant",
+        "content": "Findings: the lungs are clear bilaterally . no evidence of focal or pleural effusion . cardiomediastinal silhouette is unremarkable . visualized osseous structures of the thorax are without acute abnormality ."
+      }
+    ],
+    "videos": [
+      "491"
+    ]
+  },
+  {
+    "id": "1860",
+    "messages": [
+      {
+        "role": "user",
+        "content": "<video>\nCould you write the radiology report for this chest CT scan?"
+      },
+      {
+        "role": "assistant",
+        "content": "Findings: the xxxx examination consists of frontal and lateral radiographs of the chest . cardiac silhouette is not enlarged . there has been apparent interval increase in low density <unk> at the left <unk> xxxx . calcified granuloma is again seen in the right upper lobe . there is no pleural effusion or pneumothorax ."
+      }
+    ],
+    "videos": [
+      "1860"
+    ]
+  },
+  {
+    "id": "1193",
+    "messages": [
+      {
+        "role": "user",
+        "content": "<video>\nCould you write the radiology report for this chest CT scan?"
+      },
+      {
+        "role": "assistant",
+        "content": "Findings: heart size is within normal limits . aorta is tortuous . remainder of the cardiomediastinal silhouette is normal . lungs are clear bilaterally without pleural effusion or pneumothorax . no bony abnormalities ."
+      }
+    ],
+    "videos": [
+      "1193"
+    ]
+  },
+  {
+    "id": "2190",
+    "messages": [
+      {
+        "role": "user",
+        "content": "<video>\nCould you write the radiology report for this chest CT scan?"
+      },
+      {
+        "role": "assistant",
+        "content": "Findings: the heart and lungs have xxxx xxxx in the interval . both lungs are clear and expanded . heart and mediastinum normal . no change calcified <unk> xxxx node ."
+      }
+    ],
+    "videos": [
+      "2190"
+    ]
+  },
+  {
+    "id": "3192",
+    "messages": [
+      {
+        "role": "user",
+        "content": "<video>\nCould you write the radiology report for this chest CT scan?"
+      },
+      {
+        "role": "assistant",
+        "content": "Findings: heart size is normal . the lungs are clear . there are no focal air space consolidations . no pleural effusions or pneumothoraces . the hilar and mediastinal contours are normal ."
+      }
+    ],
+    "videos": [
+      "3192"
+    ]
+  },
+  {
+    "id": "569",
+    "messages": [
+      {
+        "role": "user",
+        "content": "<video>\nCould you write the radiology report for this chest CT scan?"
+      },
+      {
+        "role": "assistant",
+        "content": "Findings: there are no focal areas of consolidation . no suspicious pulmonary opacities . heart size within normal limits . no pleural effusions . there is no evidence of pneumothorax . osseous structures intact ."
+      }
+    ],
+    "videos": [
+      "569"
+    ]
+  },
+  {
+    "id": "404",
+    "messages": [
+      {
+        "role": "user",
+        "content": "<video>\nCould you write the radiology report for this chest CT scan?"
+      },
+      {
+        "role": "assistant",
+        "content": "Findings: the heart is normal in size . the mediastinum is unremarkable . the lungs are clear . there is no pleural line is no pneumothorax or costophrenic xxxx are seen ."
+      }
+    ],
+    "videos": [
+      "404"
+    ]
+  },
+  {
+    "id": "1249",
+    "messages": [
+      {
+        "role": "user",
+        "content": "<video>\nCould you write the radiology report for this chest CT scan?"
+      },
+      {
+        "role": "assistant",
+        "content": "Findings: the heart is normal in size and contour . the lungs are without evidence of infiltrate . there is no pneumothorax or effusion ."
+      }
+    ],
+    "videos": [
+      "1249"
+    ]
+  },
+  {
+    "id": "745",
+    "messages": [
+      {
+        "role": "user",
+        "content": "<video>\nCould you write the radiology report for this chest CT scan?"
+      },
+      {
+        "role": "assistant",
+        "content": "Findings: the xxxx examination consists of frontal and lateral radiographs of the chest . the cardiomediastinal contours are within normal limits of normal limits . pulmonary vascularity is within normal limits . no focal pleural or pneumothorax identified . the visualized osseous structures and upper abdomen are unremarkable ."
+      }
+    ],
+    "videos": [
+      "745"
+    ]
+  },
+  {
+    "id": "2537",
+    "messages": [
+      {
+        "role": "user",
+        "content": "<video>\nCould you write the radiology report for this chest CT scan?"
+      },
+      {
+        "role": "assistant",
+        "content": "Findings: the heart size and pulmonary vascularity appear within normal limits . a large hiatal hernia is noted . the lungs are free of focal airspace disease . no pleural effusion or pneumothorax is seen . degenerative changes are present in the spine ."
+      }
+    ],
+    "videos": [
+      "2537"
+    ]
+  },
+  {
+    "id": "2363",
+    "messages": [
+      {
+        "role": "user",
+        "content": "<video>\nCould you write the radiology report for this chest CT scan?"
+      },
+      {
+        "role": "assistant",
+        "content": "Findings: left picc line and <unk> tube remain normal in size . heart size and vascularity is within normal limits . the lungs are free of focal airspace disease . no pleural effusion or pneumothorax is noted ."
+      }
+    ],
+    "videos": [
+      "2363"
+    ]
+  },
+  {
+    "id": "759",
+    "messages": [
+      {
+        "role": "user",
+        "content": "<video>\nCould you write the radiology report for this chest CT scan?"
+      },
+      {
+        "role": "assistant",
+        "content": "Findings: the cardiac contours are normal . the lungs are clear . thoracic spondylosis ."
+      }
+    ],
+    "videos": [
+      "759"
+    ]
+  },
+  {
+    "id": "380",
+    "messages": [
+      {
+        "role": "user",
+        "content": "<video>\nCould you write the radiology report for this chest CT scan?"
+      },
+      {
+        "role": "assistant",
+        "content": "Findings: heart size and mediastinal contour are normal . pulmonary vascularity is normal . lungs are clear . no pleural effusions or pneumothoraces ."
+      }
+    ],
+    "videos": [
+      "380"
+    ]
+  },
+  {
+    "id": "2924",
+    "messages": [
+      {
+        "role": "user",
+        "content": "<video>\nCould you write the radiology report for this chest CT scan?"
+      },
+      {
+        "role": "assistant",
+        "content": "Findings: no pleural effusion or focal airspace disease . heart size within normal limits . cardiomediastinal silhouette is clear . bony structures appear intact ."
+      }
+    ],
+    "videos": [
+      "2924"
+    ]
+  },
+  {
+    "id": "661",
+    "messages": [
+      {
+        "role": "user",
+        "content": "<video>\nCould you write the radiology report for this chest CT scan?"
+      },
+      {
+        "role": "assistant",
+        "content": "Findings: no focal areas of consolidation . no suspicious pulmonary opacities . heart size within normal limits . no pleural effusions . no evidence of pneumothorax . osseous structures intact ."
+      }
+    ],
+    "videos": [
+      "661"
+    ]
+  },
+  {
+    "id": "3993",
+    "messages": [
+      {
+        "role": "user",
+        "content": "<video>\nCould you write the radiology report for this chest CT scan?"
+      },
+      {
+        "role": "assistant",
+        "content": "Findings: the heart is normal in size and contour . the lungs are without evidence of infiltrate . there is no pneumothorax or effusion ."
+      }
+    ],
+    "videos": [
+      "3993"
+    ]
+  },
+  {
+    "id": "3155",
+    "messages": [
+      {
+        "role": "user",
+        "content": "<video>\nCould you write the radiology report for this chest CT scan?"
+      },
+      {
+        "role": "assistant",
+        "content": "Findings: the heart is normal in size and contour . there is no mediastinal widening . the lungs are clear bilaterally . no large pleural effusion or pneumothorax . the xxxx are intact ."
+      }
+    ],
+    "videos": [
+      "3155"
+    ]
+  },
+  {
+    "id": "3442",
+    "messages": [
+      {
+        "role": "user",
+        "content": "<video>\nCould you write the radiology report for this chest CT scan?"
+      },
+      {
+        "role": "assistant",
+        "content": "Findings: frontal and lateral views of the chest show normal size and configuration of the cardiac silhouette . normal mediastinal pulmonary xxxx and central airways and lung volumes . no pleural effusion ."
+      }
+    ],
+    "videos": [
+      "3442"
+    ]
+  },
+  {
+    "id": "3746",
+    "messages": [
+      {
+        "role": "user",
+        "content": "<video>\nCould you write the radiology report for this chest CT scan?"
+      },
+      {
+        "role": "assistant",
+        "content": "Findings: the heart size is normal . the mediastinal contour is within normal limits . the lungs are free of any focal infiltrates . there are no nodules or masses . there is calcified granuloma in the left lingula . no visible pneumothorax . no visible pleural fluid . the xxxx are grossly normal . there is no visible free intraperitoneal"
+      }
+    ],
+    "videos": [
+      "3746"
+    ]
+  },
+  {
+    "id": "800",
+    "messages": [
+      {
+        "role": "user",
+        "content": "<video>\nCould you write the radiology report for this chest CT scan?"
+      },
+      {
+        "role": "assistant",
+        "content": "Findings: stable cardiomediastinal silhouette . pulmonary vascularity is within normal limits . lungs are expanded and clear of focal airspace disease . negative for pneumothorax or pleural effusion . xxxx are grossly intact ."
+      }
+    ],
+    "videos": [
+      "800"
+    ]
+  },
+  {
+    "id": "2743",
+    "messages": [
+      {
+        "role": "user",
+        "content": "<video>\nCould you write the radiology report for this chest CT scan?"
+      },
+      {
+        "role": "assistant",
+        "content": "Findings: heart size and mediastinal contour are normal . mild tortuosity of the aorta . pulmonary vascularity is normal . lungs are clear . no pleural effusions or pneumothoraces . degenerative changes in the thoracic spine ."
+      }
+    ],
+    "videos": [
+      "2743"
+    ]
+  },
+  {
+    "id": "3066",
+    "messages": [
+      {
+        "role": "user",
+        "content": "<video>\nCould you write the radiology report for this chest CT scan?"
+      },
+      {
+        "role": "assistant",
+        "content": "Findings: the heart is normal in size . the mediastinum is unremarkable . the lungs are hypoinflated . small bilateral pleural effusions are seen ."
+      }
+    ],
+    "videos": [
+      "3066"
+    ]
+  },
+  {
+    "id": "1739",
+    "messages": [
+      {
+        "role": "user",
+        "content": "<video>\nCould you write the radiology report for this chest CT scan?"
+      },
+      {
+        "role": "assistant",
+        "content": "Findings: the heart is normal in size . the mediastinum is unremarkable . the lungs are clear ."
+      }
+    ],
+    "videos": [
+      "1739"
+    ]
+  },
+  {
+    "id": "681",
+    "messages": [
+      {
+        "role": "user",
+        "content": "<video>\nCould you write the radiology report for this chest CT scan?"
+      },
+      {
+        "role": "assistant",
+        "content": "Findings: the lateral view is <unk> due to patient <unk> . normal heart size and mediastinal contours . no focal airspace consolidation . no pneumothorax or large pleural effusion . visualized osseous structures are unremarkable in appearance ."
+      }
+    ],
+    "videos": [
+      "681"
+    ]
+  },
+  {
+    "id": "2355",
+    "messages": [
+      {
+        "role": "user",
+        "content": "<video>\nCould you write the radiology report for this chest CT scan?"
+      },
+      {
+        "role": "assistant",
+        "content": "Findings: moderate cardiomegaly . mild bilateral interstitial opacities consistent with emphysema . no focal airspace consolidation . no pleural effusions or pneumothoraces . heart size and pulmonary vascularity are within normal limits ."
+      }
+    ],
+    "videos": [
+      "2355"
+    ]
+  },
+  {
+    "id": "145",
+    "messages": [
+      {
+        "role": "user",
+        "content": "<video>\nCould you write the radiology report for this chest CT scan?"
+      },
+      {
+        "role": "assistant",
+        "content": "Findings: redemonstration of the left basilar patchy unchanged from <unk> exam . lungs are otherwise clear . no evidence of pneumothorax or pleural effusions present . there is a focal calcified nodules in the left upper stable in appearance from xxxx of xxxx . the cardiomediastinal silhouette is unremarkable . no <unk> bony destruction identified ."
+      }
+    ],
+    "videos": [
+      "145"
+    ]
+  },
+  {
+    "id": "2138",
+    "messages": [
+      {
+        "role": "user",
+        "content": "<video>\nCould you write the radiology report for this chest CT scan?"
+      },
+      {
+        "role": "assistant",
+        "content": "Findings: the heart is normal in size . the mediastinum is unremarkable . the lungs are clear ."
+      }
+    ],
+    "videos": [
+      "2138"
+    ]
+  },
+  {
+    "id": "1226",
+    "messages": [
+      {
+        "role": "user",
+        "content": "<video>\nCould you write the radiology report for this chest CT scan?"
+      },
+      {
+        "role": "assistant",
+        "content": "Findings: the heart is normal in size . the mediastinum is unremarkable . the lungs are clear ."
+      }
+    ],
+    "videos": [
+      "1226"
+    ]
+  },
+  {
+    "id": "2275",
+    "messages": [
+      {
+        "role": "user",
+        "content": "<video>\nCould you write the radiology report for this chest CT scan?"
+      },
+      {
+        "role": "assistant",
+        "content": "Findings: unchanged elevation of the right hemidiaphragm . the trachea is midline . negative for pleural effusion or focal airspace consolidation . the heart size is midline sternotomy xxxx . the heart size is normal ."
+      }
+    ],
+    "videos": [
+      "2275"
+    ]
+  },
+  {
+    "id": "1346",
+    "messages": [
+      {
+        "role": "user",
+        "content": "<video>\nCould you write the radiology report for this chest CT scan?"
+      },
+      {
+        "role": "assistant",
+        "content": "Findings: heart size is moderately enlarged but stable . the lungs are normally inflated without evidence of focal airspace pleural or pneumothorax . osseous structures are within normal limits for patient age ."
+      }
+    ],
+    "videos": [
+      "1346"
+    ]
+  },
+  {
+    "id": "1972",
+    "messages": [
+      {
+        "role": "user",
+        "content": "<video>\nCould you write the radiology report for this chest CT scan?"
+      },
+      {
+        "role": "assistant",
+        "content": "Findings: heart size is normal . the lungs are clear . there are no focal air space consolidations . no pleural effusions or pneumothoraces . the hilar and mediastinal contours are normal . normal pulmonary vascularity ."
+      }
+    ],
+    "videos": [
+      "1972"
+    ]
+  },
+  {
+    "id": "3382",
+    "messages": [
+      {
+        "role": "user",
+        "content": "<video>\nCould you write the radiology report for this chest CT scan?"
+      },
+      {
+        "role": "assistant",
+        "content": "Findings: no focal pneumothorax or definite pleural effusion . heart size and pulmonary vascularity within normal visualized osseous structures appear intact ."
+      }
+    ],
+    "videos": [
+      "3382"
+    ]
+  },
+  {
+    "id": "1570",
+    "messages": [
+      {
+        "role": "user",
+        "content": "<video>\nCould you write the radiology report for this chest CT scan?"
+      },
+      {
+        "role": "assistant",
+        "content": "Findings: the heart and lungs have xxxx xxxx in the interval . both lungs are clear and expanded . heart and mediastinum normal ."
+      }
+    ],
+    "videos": [
+      "1570"
+    ]
+  },
+  {
+    "id": "2209",
+    "messages": [
+      {
+        "role": "user",
+        "content": "<video>\nCould you write the radiology report for this chest CT scan?"
+      },
+      {
+        "role": "assistant",
+        "content": "Findings: there are low lung volumes . the cardiac silhouette and mediastinal contours are within normal limits . there is tortuosity of the thoracic aorta . no pneumothorax . no large pleural effusion ."
+      }
+    ],
+    "videos": [
+      "2209"
+    ]
+  },
+  {
+    "id": "3118",
+    "messages": [
+      {
+        "role": "user",
+        "content": "<video>\nCould you write the radiology report for this chest CT scan?"
+      },
+      {
+        "role": "assistant",
+        "content": "Findings: the cardiac and mediastinal silhouettes are within normal limits . the lungs are and clear . there is no focal airspace consolidation or effusion . there is irregularity of the posterior right rib . there is no pneumothorax ."
+      }
+    ],
+    "videos": [
+      "3118"
+    ]
+  },
+  {
+    "id": "1158",
+    "messages": [
+      {
+        "role": "user",
+        "content": "<video>\nCould you write the radiology report for this chest CT scan?"
+      },
+      {
+        "role": "assistant",
+        "content": "Findings: the heart size and pulmonary vascularity appear within normal limits . the lungs are free of focal airspace disease . no pleural effusion or pneumothorax is seen . the left hemidiaphragm is noted . the visualized osseous structures are unremarkable ."
+      }
+    ],
+    "videos": [
+      "1158"
+    ]
+  },
+  {
+    "id": "292",
+    "messages": [
+      {
+        "role": "user",
+        "content": "<video>\nCould you write the radiology report for this chest CT scan?"
+      },
+      {
+        "role": "assistant",
+        "content": "Findings: the heart is normal in size . the mediastinum is unremarkable . the lungs are clear ."
+      }
+    ],
+    "videos": [
+      "292"
+    ]
+  },
+  {
+    "id": "387",
+    "messages": [
+      {
+        "role": "user",
+        "content": "<video>\nCould you write the radiology report for this chest CT scan?"
+      },
+      {
+        "role": "assistant",
+        "content": "Findings: the heart is normal in size . the mediastinum is unremarkable . the lungs are hypoinflated but clear ."
+      }
+    ],
+    "videos": [
+      "387"
+    ]
+  },
+  {
+    "id": "2631",
+    "messages": [
+      {
+        "role": "user",
+        "content": "<video>\nCould you write the radiology report for this chest CT scan?"
+      },
+      {
+        "role": "assistant",
+        "content": "Findings: the cardiomediastinal silhouette and pulmonary vasculature are within normal limits in size . the lungs are clear of focal airspace or pleural effusion . there are no acute bony findings ."
+      }
+    ],
+    "videos": [
+      "2631"
+    ]
+  },
+  {
+    "id": "97",
+    "messages": [
+      {
+        "role": "user",
+        "content": "<video>\nCould you write the radiology report for this chest CT scan?"
+      },
+      {
+        "role": "assistant",
+        "content": "Findings: the heart is top normal in size and contour . the lungs are without evidence of infiltrate . there is no pneumothorax or effusion ."
+      }
+    ],
+    "videos": [
+      "97"
+    ]
+  },
+  {
+    "id": "2200",
+    "messages": [
+      {
+        "role": "user",
+        "content": "<video>\nCould you write the radiology report for this chest CT scan?"
+      },
+      {
+        "role": "assistant",
+        "content": "Findings: the heart size and pulmonary vascularity appear within normal limits . the lungs are free of focal airspace disease . no pleural effusion or pneumothorax is seen ."
+      }
+    ],
+    "videos": [
+      "2200"
+    ]
+  },
+  {
+    "id": "1471",
+    "messages": [
+      {
+        "role": "user",
+        "content": "<video>\nCould you write the radiology report for this chest CT scan?"
+      },
+      {
+        "role": "assistant",
+        "content": "Findings: heart size is normal . the lungs are clear . there are no xxxx focal air space consolidations . no pleural effusions or pneumothoraces . the hilar and mediastinal contours are unchanged . normal pulmonary vascularity ."
+      }
+    ],
+    "videos": [
+      "1471"
+    ]
+  },
+  {
+    "id": "3784",
+    "messages": [
+      {
+        "role": "user",
+        "content": "<video>\nCould you write the radiology report for this chest CT scan?"
+      },
+      {
+        "role": "assistant",
+        "content": "Findings: the pulmonary xxxx and mediastinum are within normal limits . there is no pleural effusion or pneumothorax . there is no focal air space opacity to suggest a pneumonia . there is mild degenerative changes of the spine ."
+      }
+    ],
+    "videos": [
+      "3784"
+    ]
+  },
+  {
+    "id": "3546",
+    "messages": [
+      {
+        "role": "user",
+        "content": "<video>\nCould you write the radiology report for this chest CT scan?"
+      },
+      {
+        "role": "assistant",
+        "content": "Findings: there are no focal areas of consolidation . no suspicious pulmonary opacities . heart size within normal limits . no pleural effusions . there is no evidence of pneumothorax . osseous structures intact ."
+      }
+    ],
+    "videos": [
+      "3546"
+    ]
+  },
+  {
+    "id": "2336",
+    "messages": [
+      {
+        "role": "user",
+        "content": "<video>\nCould you write the radiology report for this chest CT scan?"
+      },
+      {
+        "role": "assistant",
+        "content": "Findings: both lungs are clear and expanded . heart and mediastinum normal ."
+      }
+    ],
+    "videos": [
+      "2336"
+    ]
+  },
+  {
+    "id": "2695",
+    "messages": [
+      {
+        "role": "user",
+        "content": "<video>\nCould you write the radiology report for this chest CT scan?"
+      },
+      {
+        "role": "assistant",
+        "content": "Findings: heart size and mediastinal contours appear within normal limits . pulmonary vascularity is within normal limits . no focal suspicious pulmonary pneumothorax or definite pleural effusion . visualized osseous structures appear intact ."
+      }
+    ],
+    "videos": [
+      "2695"
+    ]
+  },
+  {
+    "id": "760",
+    "messages": [
+      {
+        "role": "user",
+        "content": "<video>\nCould you write the radiology report for this chest CT scan?"
+      },
+      {
+        "role": "assistant",
+        "content": "Findings: lungs are clear bilaterally . there is no focal pleural or pneumothoraces . cardiomediastinal silhouette is within normal limits . xxxx are unremarkable ."
+      }
+    ],
+    "videos": [
+      "760"
+    ]
+  },
+  {
+    "id": "2940",
+    "messages": [
+      {
+        "role": "user",
+        "content": "<video>\nCould you write the radiology report for this chest CT scan?"
+      },
+      {
+        "role": "assistant",
+        "content": "Findings: the heart is normal in size . the mediastinum is unremarkable . the lungs are clear ."
+      }
+    ],
+    "videos": [
+      "2940"
+    ]
+  },
+  {
+    "id": "814",
+    "messages": [
+      {
+        "role": "user",
+        "content": "<video>\nCould you write the radiology report for this chest CT scan?"
+      },
+      {
+        "role": "assistant",
+        "content": "Findings: the heart is normal in size . the mediastinum is unremarkable . the lungs are clear ."
+      }
+    ],
+    "videos": [
+      "814"
+    ]
+  },
+  {
+    "id": "1393",
+    "messages": [
+      {
+        "role": "user",
+        "content": "<video>\nCould you write the radiology report for this chest CT scan?"
+      },
+      {
+        "role": "assistant",
+        "content": "Findings: the heart is normal in size . the mediastinum is unremarkable . the lungs are clear ."
+      }
+    ],
+    "videos": [
+      "1393"
+    ]
+  },
+  {
+    "id": "670",
+    "messages": [
+      {
+        "role": "user",
+        "content": "<video>\nCould you write the radiology report for this chest CT scan?"
+      },
+      {
+        "role": "assistant",
+        "content": "Findings: the heart and lungs have xxxx xxxx in the interval . both lungs are clear and expanded . heart and mediastinum normal ."
+      }
+    ],
+    "videos": [
+      "670"
+    ]
+  },
+  {
+    "id": "2618",
+    "messages": [
+      {
+        "role": "user",
+        "content": "<video>\nCould you write the radiology report for this chest CT scan?"
+      },
+      {
+        "role": "assistant",
+        "content": "Findings: heart size is normal . the lungs are clear . no pneumothorax or pleural effusion ."
+      }
+    ],
+    "videos": [
+      "2618"
+    ]
+  },
+  {
+    "id": "2130",
+    "messages": [
+      {
+        "role": "user",
+        "content": "<video>\nCould you write the radiology report for this chest CT scan?"
+      },
+      {
+        "role": "assistant",
+        "content": "Findings: stable cardiomediastinal silhouette . no focal pulmonary pleural effusion or pneumothorax . no acute bony abnormality . there are stable degenerative changes of the spine ."
+      }
+    ],
+    "videos": [
+      "2130"
+    ]
+  },
+  {
+    "id": "1914",
+    "messages": [
+      {
+        "role": "user",
+        "content": "<video>\nCould you write the radiology report for this chest CT scan?"
+      },
+      {
+        "role": "assistant",
+        "content": "Findings: normal heart size and mediastinal contours . calcified aortic xxxx . xxxx opacities in the left lung xxxx atelectasis . the left lung xxxx opacities . the left lung xxxx representing atelectasis versus scarring . no focal airspace consolidation . no pleural effusion or pneumothorax . no acute bony abnormalities ."
+      }
+    ],
+    "videos": [
+      "1914"
+    ]
+  },
+  {
+    "id": "1683",
+    "messages": [
+      {
+        "role": "user",
+        "content": "<video>\nCould you write the radiology report for this chest CT scan?"
+      },
+      {
+        "role": "assistant",
+        "content": "Findings: the heart size is upper limits of normal . the pulmonary xxxx and mediastinum are within normal limits . there is no pleural effusion or pneumothorax . there is no focal air space opacity to suggest a pneumonia ."
+      }
+    ],
+    "videos": [
+      "1683"
+    ]
+  },
+  {
+    "id": "3423",
+    "messages": [
+      {
+        "role": "user",
+        "content": "<video>\nCould you write the radiology report for this chest CT scan?"
+      },
+      {
+        "role": "assistant",
+        "content": "Findings: there is a left base opacity . the right lung is clear . heart size is normal . no pneumothorax ."
+      }
+    ],
+    "videos": [
+      "3423"
+    ]
+  },
+  {
+    "id": "3378",
+    "messages": [
+      {
+        "role": "user",
+        "content": "<video>\nCould you write the radiology report for this chest CT scan?"
+      },
+      {
+        "role": "assistant",
+        "content": "Findings: heart size within normal limits . right hemidiaphragm eventration noted . no focal alveolar no definite pleural effusion seen . no typical findings of pulmonary edema ."
+      }
+    ],
+    "videos": [
+      "3378"
+    ]
+  },
+  {
+    "id": "1413",
+    "messages": [
+      {
+        "role": "user",
+        "content": "<video>\nCould you write the radiology report for this chest CT scan?"
+      },
+      {
+        "role": "assistant",
+        "content": "Findings: normal heart size . mild unfolding of the thoracic aorta . no focal airspace opacity . no pleural effusion or pneumothorax . visualized osseous structures are unremarkable in appearance ."
+      }
+    ],
+    "videos": [
+      "1413"
+    ]
+  },
+  {
+    "id": "2179",
+    "messages": [
+      {
+        "role": "user",
+        "content": "<video>\nCould you write the radiology report for this chest CT scan?"
+      },
+      {
+        "role": "assistant",
+        "content": "Findings: heart size is mildly enlarged . the lungs are clear . there is no pleural effusion or pneumothorax . the skeletal structures are normal ."
+      }
+    ],
+    "videos": [
+      "2179"
+    ]
+  },
+  {
+    "id": "3281",
+    "messages": [
+      {
+        "role": "user",
+        "content": "<video>\nCould you write the radiology report for this chest CT scan?"
+      },
+      {
+        "role": "assistant",
+        "content": "Findings: the heart is normal in size . the mediastinum is stable . the lungs are clear . there is no focal air space consolidations . no pleural effusions or pneumothoraces ."
+      }
+    ],
+    "videos": [
+      "3281"
+    ]
+  },
+  {
+    "id": "3000",
+    "messages": [
+      {
+        "role": "user",
+        "content": "<video>\nCould you write the radiology report for this chest CT scan?"
+      },
+      {
+        "role": "assistant",
+        "content": "Findings: there are no focal areas of consolidation . no suspicious pulmonary opacities . heart size within normal limits . no pleural effusions . there is no evidence of pneumothorax . osseous structures intact ."
+      }
+    ],
+    "videos": [
+      "3000"
+    ]
+  },
+  {
+    "id": "1273",
+    "messages": [
+      {
+        "role": "user",
+        "content": "<video>\nCould you write the radiology report for this chest CT scan?"
+      },
+      {
+        "role": "assistant",
+        "content": "Findings: no pleural effusion or airspace consolidation . heart size and pulmonary vasculature appear within normal limits . xxxx xxxx xxxx are intact ."
+      }
+    ],
+    "videos": [
+      "1273"
+    ]
+  },
+  {
+    "id": "3609",
+    "messages": [
+      {
+        "role": "user",
+        "content": "<video>\nCould you write the radiology report for this chest CT scan?"
+      },
+      {
+        "role": "assistant",
+        "content": "Findings: cardiomegaly . prominent xxxx are stable . no pneumothorax . minimal right costophrenic xxxx blunting . no focal infiltrates ."
+      }
+    ],
+    "videos": [
+      "3609"
+    ]
+  },
+  {
+    "id": "710",
+    "messages": [
+      {
+        "role": "user",
+        "content": "<video>\nCould you write the radiology report for this chest CT scan?"
+      },
+      {
+        "role": "assistant",
+        "content": "Findings: the trachea is midline . the cardiomediastinal silhouette is normal . the lungs are without evidence of focal infiltrate or effusion . there is no pleural effusion or pneumothorax . the visualized bony structures reveal no acute abnormalities ."
+      }
+    ],
+    "videos": [
+      "710"
+    ]
+  },
+  {
+    "id": "3294",
+    "messages": [
+      {
+        "role": "user",
+        "content": "<video>\nCould you write the radiology report for this chest CT scan?"
+      },
+      {
+        "role": "assistant",
+        "content": "Findings: normal heart size . mild unfolding of the thoracic aorta . no focal airspace opacity . no pleural effusion or pneumothorax . visualized osseous structures are unremarkable in appearance ."
+      }
+    ],
+    "videos": [
+      "3294"
+    ]
+  },
+  {
+    "id": "3673",
+    "messages": [
+      {
+        "role": "user",
+        "content": "<video>\nCould you write the radiology report for this chest CT scan?"
+      },
+      {
+        "role": "assistant",
+        "content": "Findings: the heart and lungs have xxxx xxxx in the interval . both lungs are clear and expanded . heart and mediastinum normal ."
+      }
+    ],
+    "videos": [
+      "3673"
+    ]
+  },
+  {
+    "id": "3430",
+    "messages": [
+      {
+        "role": "user",
+        "content": "<video>\nCould you write the radiology report for this chest CT scan?"
+      },
+      {
+        "role": "assistant",
+        "content": "Findings: frontal and lateral views of the chest with overlying external cardiac monitor leads show normal size and configuration of the cardiac silhouette . normal pulmonary vasculature and central airways . no focal airspace consolidation or pleural effusion ."
+      }
+    ],
+    "videos": [
+      "3430"
+    ]
+  },
+  {
+    "id": "76",
+    "messages": [
+      {
+        "role": "user",
+        "content": "<video>\nCould you write the radiology report for this chest CT scan?"
+      },
+      {
+        "role": "assistant",
+        "content": "Findings: the heart size and pulmonary vascularity appear within normal limits . the lungs are free of focal airspace disease . no pleural effusion or pneumothorax is seen . no discrete nodules or adenopathy identified ."
+      }
+    ],
+    "videos": [
+      "76"
+    ]
+  },
+  {
+    "id": "1255",
+    "messages": [
+      {
+        "role": "user",
+        "content": "<video>\nCould you write the radiology report for this chest CT scan?"
+      },
+      {
+        "role": "assistant",
+        "content": "Findings: the cardiomediastinal silhouette and vasculature are within normal limits for size and contour . the lungs are normally inflated and clear . osseous structures are within normal limits for patient age ."
+      }
+    ],
+    "videos": [
+      "1255"
+    ]
+  },
+  {
+    "id": "2232",
+    "messages": [
+      {
+        "role": "user",
+        "content": "<video>\nCould you write the radiology report for this chest CT scan?"
+      },
+      {
+        "role": "assistant",
+        "content": "Findings: sequelae of old granulomatous disease . lungs are clear without focal airspace disease . no pleural effusions or pneumothoraces . heart and mediastinum of normal size and contour ."
+      }
+    ],
+    "videos": [
+      "2232"
+    ]
+  },
+  {
+    "id": "2357",
+    "messages": [
+      {
+        "role": "user",
+        "content": "<video>\nCould you write the radiology report for this chest CT scan?"
+      },
+      {
+        "role": "assistant",
+        "content": "Findings: frontal and lateral views of the chest show an unchanged cardiomediastinal silhouette is normal size and configuration of the cardiac silhouette . normal mediastinal pulmonary xxxx and central airways and aeration of the lungs . no pleural effusion . there are <unk> intraperitoneal <unk> xxxx and <unk> xxxx and <unk> xxxx and <unk> xxxx opacities xxxx and <unk> xxxx and"
+      }
+    ],
+    "videos": [
+      "2357"
+    ]
+  },
+  {
+    "id": "2889",
+    "messages": [
+      {
+        "role": "user",
+        "content": "<video>\nCould you write the radiology report for this chest CT scan?"
+      },
+      {
+        "role": "assistant",
+        "content": "Findings: the heart size and cardiomediastinal silhouette are normal . the lungs are clear without focal airspace pleural or pneumothorax . the osseous structures are intact ."
+      }
+    ],
+    "videos": [
+      "2889"
+    ]
+  },
+  {
+    "id": "565",
+    "messages": [
+      {
+        "role": "user",
+        "content": "<video>\nCould you write the radiology report for this chest CT scan?"
+      },
+      {
+        "role": "assistant",
+        "content": "Findings: the heart is normal in size and contour . there is no mediastinal widening . the lungs are clear bilaterally . no focal airspace disease . no large pleural effusion or pneumothorax . the xxxx are intact ."
+      }
+    ],
+    "videos": [
+      "565"
+    ]
+  },
+  {
+    "id": "2099",
+    "messages": [
+      {
+        "role": "user",
+        "content": "<video>\nCould you write the radiology report for this chest CT scan?"
+      },
+      {
+        "role": "assistant",
+        "content": "Findings: heart size normal . lungs are clear . xxxx are normal . no nodules or masses ."
+      }
+    ],
+    "videos": [
+      "2099"
+    ]
+  },
+  {
+    "id": "3136",
+    "messages": [
+      {
+        "role": "user",
+        "content": "<video>\nCould you write the radiology report for this chest CT scan?"
+      },
+      {
+        "role": "assistant",
+        "content": "Findings: heart size and cardiomediastinal contours are normal . lungs are clear without focal airspace pleural or pneumothorax . osseous structures are grossly intact ."
+      }
+    ],
+    "videos": [
+      "3136"
+    ]
+  },
+  {
+    "id": "1560",
+    "messages": [
+      {
+        "role": "user",
+        "content": "<video>\nCould you write the radiology report for this chest CT scan?"
+      },
+      {
+        "role": "assistant",
+        "content": "Findings: the heart size is normal . the mediastinal contour is within normal limits . low lung volumes and bronchovascular crowding . the lungs are free of any focal infiltrates . there are no nodules or masses . no visible pneumothorax . no visible pleural fluid . the xxxx are grossly normal . there is no visible free xxxx are grossly"
+      }
+    ],
+    "videos": [
+      "1560"
+    ]
+  },
+  {
+    "id": "2129",
+    "messages": [
+      {
+        "role": "user",
+        "content": "<video>\nCould you write the radiology report for this chest CT scan?"
+      },
+      {
+        "role": "assistant",
+        "content": "Findings: the cardiomediastinal silhouette is normal in size and contour . no focal pneumothorax or large pleural effusion . negative for acute bone abnormality ."
+      }
+    ],
+    "videos": [
+      "2129"
+    ]
+  },
+  {
+    "id": "328",
+    "messages": [
+      {
+        "role": "user",
+        "content": "<video>\nCould you write the radiology report for this chest CT scan?"
+      },
+      {
+        "role": "assistant",
+        "content": "Findings: the heart is normal in size . the mediastinum is unremarkable . the lungs are clear ."
+      }
+    ],
+    "videos": [
+      "328"
+    ]
+  },
+  {
+    "id": "1796",
+    "messages": [
+      {
+        "role": "user",
+        "content": "<video>\nCould you write the radiology report for this chest CT scan?"
+      },
+      {
+        "role": "assistant",
+        "content": "Findings: the heart is normal in size and contour . the lungs are without evidence of infiltrate . there is no pneumothorax or effusion ."
+      }
+    ],
+    "videos": [
+      "1796"
+    ]
+  },
+  {
+    "id": "1323",
+    "messages": [
+      {
+        "role": "user",
+        "content": "<video>\nCould you write the radiology report for this chest CT scan?"
+      },
+      {
+        "role": "assistant",
+        "content": "Findings: no acute osseous abnormality . scattered endplate degenerative changes throughout the thoracic spine . normal cardiomediastinal silhouette and hilar contours ."
+      }
+    ],
+    "videos": [
+      "1323"
+    ]
+  },
+  {
+    "id": "2145",
+    "messages": [
+      {
+        "role": "user",
+        "content": "<video>\nCould you write the radiology report for this chest CT scan?"
+      },
+      {
+        "role": "assistant",
+        "content": "Findings: the heart is normal in size . the mediastinum is unremarkable . the lungs are clear ."
+      }
+    ],
+    "videos": [
+      "2145"
+    ]
+  },
+  {
+    "id": "3384",
+    "messages": [
+      {
+        "role": "user",
+        "content": "<video>\nCould you write the radiology report for this chest CT scan?"
+      },
+      {
+        "role": "assistant",
+        "content": "Findings: the heart size and pulmonary vascularity appear within normal limits . the lungs are free of focal airspace disease . no pleural effusion or pneumothorax is seen ."
+      }
+    ],
+    "videos": [
+      "3384"
+    ]
+  },
+  {
+    "id": "419",
+    "messages": [
+      {
+        "role": "user",
+        "content": "<video>\nCould you write the radiology report for this chest CT scan?"
+      },
+      {
+        "role": "assistant",
+        "content": "Findings: cardiac and mediastinal xxxx appear normal . no visible focal airspace or pleural effusion is seen . no visible free air under the diaphragm . the osseous structures appear intact ."
+      }
+    ],
+    "videos": [
+      "419"
+    ]
+  },
+  {
+    "id": "94",
+    "messages": [
+      {
+        "role": "user",
+        "content": "<video>\nCould you write the radiology report for this chest CT scan?"
+      },
+      {
+        "role": "assistant",
+        "content": "Findings: heart size normal . lungs are clear . xxxx are normal . no nodules or masses ."
+      }
+    ],
+    "videos": [
+      "94"
+    ]
+  },
+  {
+    "id": "721",
+    "messages": [
+      {
+        "role": "user",
+        "content": "<video>\nCould you write the radiology report for this chest CT scan?"
+      },
+      {
+        "role": "assistant",
+        "content": "Findings: heart size and pulmonary vascularity appear within normal limits . the lungs are free of focal airspace disease . no pleural effusion or pneumothorax is seen . there is eventration of the right hemidiaphragm . degenerative changes are present in the spine ."
+      }
+    ],
+    "videos": [
+      "721"
+    ]
+  },
+  {
+    "id": "891",
+    "messages": [
+      {
+        "role": "user",
+        "content": "<video>\nCould you write the radiology report for this chest CT scan?"
+      },
+      {
+        "role": "assistant",
+        "content": "Findings: the heart and lungs have xxxx xxxx in the interval . both lungs are clear and expanded . heart and mediastinum normal ."
+      }
+    ],
+    "videos": [
+      "891"
+    ]
+  },
+  {
+    "id": "2590",
+    "messages": [
+      {
+        "role": "user",
+        "content": "<video>\nCould you write the radiology report for this chest CT scan?"
+      },
+      {
+        "role": "assistant",
+        "content": "Findings: the heart and lungs have xxxx xxxx in the interval . both lungs are clear and expanded . heart and mediastinum normal ."
+      }
+    ],
+    "videos": [
+      "2590"
+    ]
+  },
+  {
+    "id": "2862",
+    "messages": [
+      {
+        "role": "user",
+        "content": "<video>\nCould you write the radiology report for this chest CT scan?"
+      },
+      {
+        "role": "assistant",
+        "content": "Findings: cardiomediastinal silhouette is within normal limits of size and appearance . the pulmonary vascularity is unremarkable . there are xxxx opacities xxxx subsegmental atelectasis the left lung base . the lungs are clear of focal airspace disease . no pneumothorax or pleural effusion . there is no acute bony abnormality ."
+      }
+    ],
+    "videos": [
+      "2862"
+    ]
+  },
+  {
+    "id": "3981",
+    "messages": [
+      {
+        "role": "user",
+        "content": "<video>\nCould you write the radiology report for this chest CT scan?"
+      },
+      {
+        "role": "assistant",
+        "content": "Findings: the heart is normal in size . the mediastinum is unremarkable . the lungs are clear . slight thoracolumbar curvature is noted ."
+      }
+    ],
+    "videos": [
+      "3981"
+    ]
+  }
+]
